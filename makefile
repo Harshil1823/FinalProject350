@@ -1,6 +1,6 @@
 CC = g++
 CFLAGS = -std=c++11
-PROGRAM_NAME = Shah_Harshil_quickSort
+PROGRAM_NAME = Shah_Harshil_quicksort
 
 all: $(PROGRAM_NAME) InputFileGenerator
 
