@@ -20,4 +20,6 @@ This command will take in file called input_1.txt and read from the file and the
 
 Also, it will create a execution time file with it. The execution file will have how long it took to the task of sorting. 
 
+Also, there is a script to make all 75 files (10, 100, 1000) 25 each for the values. To run the script you can call ./run_tests.sh
+
 To cleanup simply call make clean. 
